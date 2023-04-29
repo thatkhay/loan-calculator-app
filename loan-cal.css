@@ -1,0 +1,17 @@
+html{
+    font-family: 'Katibeh', cursive;
+   font-size: 16px;
+}
+body{
+    font-family: 'Katibeh', cursive;
+}
+
+.form-group{
+    margin-bottom: 1rem;
+    display: flex;
+    align-items: center;
+}
+
+span{
+    margin-right: 1rem;
+}
