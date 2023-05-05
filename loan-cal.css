@@ -15,3 +15,20 @@ body{
 span{
     margin-right: 1rem;
 }
+
+#loading, #results {
+    display: none;
+}
+
+.img{
+    height: 6rem;
+width: 6rem;
+
+}
+
+.imgDiv{
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
