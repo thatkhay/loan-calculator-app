@@ -18,3 +18,6 @@ We welcome contributions to the Loan Calculator App! If you would like to contri
 Before submitting a pull request, make sure to run the test suite to ensure your changes do not break any existing functionality.
 Please also include any necessary documentation or updated README files with your changes.
 Thank you for your interest in the Loan Calculator App! If you have any questions or feedback, please feel free to open an issue on the GitHub repository.
+
+![loancalc](https://github.com/thatkhay/Listify/assets/117424081/15e5e3fe-714e-4fef-ac5d-3534ee0d9cc3)
+
