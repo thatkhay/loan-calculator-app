@@ -1,7 +1,8 @@
 # loan-calculator-app
-Welcome to the Loan Calculator App GitHub repository! This repository contains the source code and other resources for the Loan Calculator App.
+ Welcome to the Loan Calculator App GitHub repository! This repository contains the source code and other resources for the Loan 
+ ## Calculator App.
 
-Getting Started:
+ ## Getting Started:
 
 Clone or download the repository to your local machine.
 Install the required dependencies listed in the README file.
